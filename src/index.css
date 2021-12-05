@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Logo Component Style */
+#bannerLogo {
+  max-width: 100%;
+}
+
+#bannerImg{
+  width: 100%;
+}
