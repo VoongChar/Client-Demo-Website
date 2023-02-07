@@ -1,3 +1,10 @@
+# About the Client Demo Website
+
+This project required using strapi to build a headless CMS for our client. The website's is to serve as Nichola Henderson's (artist handle "JadeKingfisher") online art portfolio. Potential customers can view art, purchase merchandise or contact Nich.
+
+Uploaded to Github for portfolio purposes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
