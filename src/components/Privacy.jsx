@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap'
 
 export default function Privacy() {
   return (
-    <Card border="dark" className="m-5">
+    <Card border="light" className="m-5">
       <Card.Title className="ps-3 pt-3">Privacy Policy</Card.Title>
       <Card.Body>
         We collect personal information from you, including information about

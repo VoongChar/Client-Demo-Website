@@ -3,7 +3,7 @@ import { Card } from 'react-bootstrap'
 
 export default function TermsandC() {
   return (
-    <Card border="dark" className="m-5">
+    <Card border="light" className="m-5">
       <Card.Title className="ps-3 pt-3">Terms & Conditions</Card.Title>
       <Card.Body>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod

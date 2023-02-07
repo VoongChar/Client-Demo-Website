@@ -19,12 +19,12 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/latest">
+                <NavLink className="nav-link" to="/latestwork">
                   Latest Work
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/previous">
+                <NavLink className="nav-link" to="/previouswork">
                   Previous Work
                 </NavLink>
               </li>

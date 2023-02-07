@@ -18,11 +18,14 @@ import {
   Privacy,
   Logo,
 } from "./components";
+// import App from "./App"
+
 
 ReactDOM.render(
   <Router>
     <Logo />
     <Navigation />
+    {/* <App /> */}
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
